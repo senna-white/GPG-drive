@@ -2,6 +2,7 @@
 ## Driving simulator
 
 ### Prerequisites
+It can refer to https://github.com/saxenam06/GPG-drive
 The code is written using Python 3.9, and mainly uses the following Python libraries:
 * CasADI
 * Pyglet
